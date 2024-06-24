@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathmesh Deshpande
 - 👀 I’m interested in Cretical Thinking and Solving Problems
-- 🌱 I’m currently learning Java and ReactJS and NEXTj
+- 🌱 I’m currently learning Java and ReactJS and NEXTjs 
   
   
 

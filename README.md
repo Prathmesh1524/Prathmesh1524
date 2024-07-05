@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Prathmesh Deshpande
-- 👀 I’m interested in Cretical Thinking and Solving Problems
-- 🌱 I’m currently learning Java and ReactJS and NEXTjs 
+-  Persuing Bachlore of Technology,First Year Stundent at JSPM University,Pune. 
+-   MERN Stack, Tailwind, NextJs.
+- 👀 I’m interested in Cretical Thinking and Solving Problems.
+- 🌱 Java
   
   
 

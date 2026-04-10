@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on MERN STACK <br>🌱 Experienced in MERN, JAVA, DEVOPS<br>💬 Ask me about DEVLOPMENT AND DSA<br>⚡ Fun fact I AM SECOND YEAR STUDENT
+🔭 I’m currently working on MERN STACK <br>🌱 Experienced in MERN, JAVA, DEVOPS<br>💬 Ask me about DEVLOPMENT AND DSA<br>⚡ Fun fact I AM THIRD YEAR STUDENT
 
 
 ## 🌐 Socials:
